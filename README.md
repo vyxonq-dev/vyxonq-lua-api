@@ -15,7 +15,7 @@ Open Lua/Luau minify / beautify / VM-compress API.
 | `GET` | `/health` | Health check |
 | `GET` | `/v1/status` | Runtime info & usage stats |
 | `POST` | `/v1/apply/` | Minify or Beautify (`mode`) |
-| `POST` | `/v1/apply/vm` | VM Compression (load/loadstring) required |
+| `POST` | `/v1/apply/vm` | VM Compression (`load` / `loadstring` required) |
 
 ---
 
