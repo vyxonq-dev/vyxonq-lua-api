@@ -1,4 +1,4 @@
-# vyxonq-api
+# vyxonq-lua-api
 
 [![API](https://img.shields.io/badge/API-vyxonq.dev-blue?style=flat-square)](https://api.vyxonq.dev)
 [![Status](https://img.shields.io/badge/status-open-success?style=flat-square)](https://api.vyxonq.dev/v1/status)
